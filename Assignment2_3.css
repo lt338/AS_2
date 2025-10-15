@@ -1,0 +1,21 @@
+#box{
+    
+
+    background-color:rgba(216, 251, 216, 0.747);
+    padding:5px;
+    border:10px solid rgba(248, 165, 208, 0.942);
+
+    width:200px;
+    height:150px;
+
+    position:absolute;
+    left:500px;
+    top:250px;
+
+    
+}
+
+body{
+    background-color:rgba(216, 251, 216, 0.747);
+
+}
